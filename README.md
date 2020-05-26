@@ -1,2 +1,1 @@
-Myapp
-This is my app
+Project to make track of activities on the farm.
